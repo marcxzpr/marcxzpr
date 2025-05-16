@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sobre mim:<br><br>Atualmente estudante e busco me tornar full-stack</h3>
+<h3 align="left">Sobre mim:<br><br>Atualmente estudante e busco aprender mais sobre Java e Java Script</h3>
 
 ###
 
